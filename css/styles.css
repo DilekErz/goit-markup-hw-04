@@ -361,6 +361,7 @@ h1 {
 .section-fourth-container .section-li-img .card {
   background: #ffffff; /*Not: gölgenin arkası beyaz olmadığında gölge net gözükmüyor*/
   transition: box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
 }
 
 /*EN SON PORTFOLİO DAKİ GÖLGELİKLERİ EKLEMEYE ÇALIŞIYORDUN*/
